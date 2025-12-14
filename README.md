@@ -2,7 +2,7 @@
 
 A wheelchair-mounted crutch holder designed to keep crutches secure and within reach
 
-This Gitbook contains:
+This repository contains:
 
 * 3D printable STL files
 * Printing instructions
