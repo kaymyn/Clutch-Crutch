@@ -1,5 +1,5 @@
 # Assembly Steps
-1. Print File [3D Printing](printing/printing_notes.md)
+1. Print File [3D Printing](Clutch-Crutch/printing/printing_notes.md)
 2. Take 4 pins out of mop holder
 3. Take Rubber Grip out of mop holder
 4. Attach Rubber Grip
