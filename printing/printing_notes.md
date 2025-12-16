@@ -1,7 +1,7 @@
 # 3D Printing Instructions
 
 ## STL Files
-- [Download STL](./part_name.stl)
+- [Download STL](Prototype 3 Mobility Aid Attachment Solidworks Part (2).STL)
 
 ## Settings
 (Minimum 10x10x10 Inch 3D Print build Area)
