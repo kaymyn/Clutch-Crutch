@@ -1,6 +1,6 @@
 # Assembly Instructions
 
-1. Print File [3D Printing](assembly/printing/printing_notes.md)
+1. Print File [3D Print](printing/printing_notes.md)
 2. Take 4 pins out of mop holder
 3. Take Rubber Grip out of mop holder
 4. Attach Rubber Grip
