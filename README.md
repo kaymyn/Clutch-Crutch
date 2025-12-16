@@ -10,4 +10,5 @@ This contains:
 
 * 3D printable STL files
 * Printing instructions
+* Required Hardware
 * Assembly instructions
